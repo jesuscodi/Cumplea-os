@@ -78,7 +78,7 @@ if(canvas && ctx){
 function setupGallery(){
     const gallery = document.querySelector('.gallery');
     if(!gallery) return;
-    const sample = ["foto1.jpg","foto2.jpg","foto3.jpg"];
+    const sample = ["foto1.jpeg","foto2.jpeg","foto3.jpeg"];
     sample.forEach(name=>{
         const img = document.createElement('img');
         img.src = `img/${name}`;
