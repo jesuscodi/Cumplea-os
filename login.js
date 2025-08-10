@@ -1,5 +1,5 @@
 // Cambia esta fecha por la fecha real de Fátima (formato dd/mm/yyyy)
-const CORRECT_DATE = "07/05/2000";
+const CORRECT_DATE = "07/07/2001";
 
 document.getElementById('enterBtn').addEventListener('click', checkDate);
 document.getElementById('dob').addEventListener('keyup', function(e){
