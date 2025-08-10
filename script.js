@@ -1,4 +1,4 @@
-// Texto con efecto máquina de escribir
+// Texto con efecto máquina de escribio
 const text = "Mi amor,\n\nHoy no es un día cualquiera… es el día en que el mundo recibió a la persona más hermosa y especial: tú.\n\nDesde que llegaste a mi vida, todo tiene más sentido. Tus sonrisas son mi paz, tus abrazos mi refugio, y tu voz... mi melodía favorita.\n\nNo hay regalo, canción o palabra que pueda igualar lo mucho que te amo, pero hoy quiero regalarte algo que dure para siempre: este pequeño rincón donde mi corazón se escribe para ti.\n\nGracias por existir, por enseñarme lo que es el amor verdadero y por ser la razón de mis días felices.\n\nFeliz cumpleaños, mi vida ❤️\n\nCon todo mi amor,\nJesús";
 
 let i = 0;
